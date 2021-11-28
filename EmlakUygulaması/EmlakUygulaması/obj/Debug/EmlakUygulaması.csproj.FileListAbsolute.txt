@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\7.hafta\cumartesi\EmlakUygulaması\EmlakUygulaması\bin\Debug\EmlakUygulaması.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\7.hafta\cumartesi\EmlakUygulaması\EmlakUygulaması\bin\Debug\EmlakUygulaması.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\7.hafta\cumartesi\EmlakUygulaması\EmlakUygulaması\bin\Debug\EmlakUygulaması.pdb
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\7.hafta\cumartesi\EmlakUygulaması\EmlakUygulaması\obj\Debug\EmlakUygulaması.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\7.hafta\cumartesi\EmlakUygulaması\EmlakUygulaması\obj\Debug\EmlakUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\7.hafta\cumartesi\EmlakUygulaması\EmlakUygulaması\obj\Debug\EmlakUygulaması.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\7.hafta\cumartesi\EmlakUygulaması\EmlakUygulaması\obj\Debug\EmlakUygulaması.pdb
